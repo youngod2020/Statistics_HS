@@ -1,1 +1,1 @@
-test
+- [출석부_스프레트시트_링크](https://docs.google.com/spreadsheets/d/1-6Ishe7GBQB8Xy7iYIkCxKgQxHqeKthMGZ1_6IMmKEs/edit#gid=0)
