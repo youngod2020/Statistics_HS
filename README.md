@@ -1,12 +1,11 @@
 # Statistics_HS
 
-#### ML Study group HS의 기초통계학 스터디 기록 저장소입니다.
+#### ML Study group HS의 수리통계학 스터디 기록 저장소입니다.
 
 
 ### Contributors
 + [YoungJu, Kang](https://github.com/kyj0920)
 + [HyeonSeong, Kim](https://github.com/khs070911)
-+ [MyungHwa, Ji](https://github.com/star6973)
 + [HeeSeo, Lim](https://github.com/limhs1)
 + [KwangJune, Choi](https://github.com/kwangjunechoi7)
 
@@ -28,12 +27,12 @@
 
 
 ### References
-- 기초통계학 관련 학습, 연구 자료 및 링크를 업로드합니다.
+- 기초 및 수리 통계학 관련 학습, 연구 자료 및 링크를 업로드합니다.
 
 
 
 ### Slide
-- 발표는 한 주에 두 명씩 지정된 순서대로 진행합니다. ppt, markdown, ipython 등 발표 관련자료를 업로드합니다.
+- ppt, markdown, ipython 등 발표 관련자료를 업로드합니다.
 
 
 
@@ -48,7 +47,9 @@
 
 
 #### to do list
-- [x] 0주차 _ Orientation
+- [✔︎] 0주차 _ Orientation
+- [✔︎] 1주차 _ 1장, 2장
+- [🏃‍♀️] 2주차 _ 2장
 
 
 #### Time Line
